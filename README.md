@@ -7,7 +7,7 @@ A production-quality multi-step security system bundle builder built as a React 
 ## 🚀 Quick Start
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MusfirahSheikh8/react-bundle-builder
 cd Ecome-Expert
 
 npm install
