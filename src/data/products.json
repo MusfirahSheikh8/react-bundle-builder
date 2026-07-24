@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "id": "cameras",
+      "title": "Choose your cameras",
+      "icon": "Video",
+      "step": 1
+    },
+    {
+      "id": "plan",
+      "title": "Choose your plan",
+      "icon": "Shield",
+      "step": 2
+    },
+    {
+      "id": "sensors",
+      "title": "Choose your sensors",
+      "icon": "Activity",
+      "step": 3
+    },
+    {
+      "id": "protection",
+      "title": "Add extra protection",
+      "icon": "Lock",
+      "step": 4
+    }
+  ],
+  "products": [
+    {
+      "id": "cam-v4",
+      "categoryId": "cameras",
+      "title": "Wyze Cam v4",
+      "description": "Indoor/outdoor security with color night vision & 2-way audio.",
+      "learnMoreUrl": "#",
+      "price": 29.99,
+      "compareAtPrice": 38.00,
+      "badge": "Save 21%",
+      "variants": [
+        {
+          "id": "white",
+          "name": "White",
+          "colorCode": "#E8E8E8",
+          "imageUrl": "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?w=300&h=300&fit=crop&auto=format&q=80"
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "colorCode": "#1a1a1a",
+          "imageUrl": "https://images.unsplash.com/photo-1624927637280-f033784c1279?w=300&h=300&fit=crop&auto=format&q=80"
+        }
+      ]
+    },
+    {
+      "id": "cam-pan-v3",
+      "categoryId": "cameras",
+      "title": "Wyze Cam Pan v3",
+      "description": "360° pan, tilt & zoom with continuous motion tracking.",
+      "learnMoreUrl": "#",
+      "price": 33.99,
+      "compareAtPrice": 39.99,
+      "badge": "Save 15%",
+      "variants": [
+        {
+          "id": "white",
+          "name": "White",
+          "colorCode": "#E8E8E8",
+          "imageUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=300&h=300&fit=crop&auto=format&q=80"
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "colorCode": "#1a1a1a",
+          "imageUrl": "https://images.unsplash.com/photo-1580982172477-9373ff9e73b4?w=300&h=300&fit=crop&auto=format&q=80"
+        }
+      ]
+    },
+    {
+      "id": "floodlight-v2",
+      "categoryId": "cameras",
+      "title": "Wyze Cam Floodlight v2",
+      "description": "3000-lumen dual floodlights with 180° field of view camera.",
+      "learnMoreUrl": "#",
+      "price": 79.99,
+      "compareAtPrice": 99.99,
+      "badge": "Save $20",
+      "variants": [
+        {
+          "id": "white",
+          "name": "White",
+          "colorCode": "#E8E8E8",
+          "imageUrl": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=300&h=300&fit=crop&auto=format&q=80"
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "colorCode": "#1a1a1a",
+          "imageUrl": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=300&h=300&fit=crop&auto=format&q=80"
+        }
+      ]
+    },
+    {
+      "id": "doorbell-v2",
+      "categoryId": "cameras",
+      "title": "Wyze Video Doorbell v2",
+      "description": "Never miss a visitor — 2K QHD lens, built-in chime, no subscription needed.",
+      "learnMoreUrl": "#",
+      "price": 49.99,
+      "compareAtPrice": 0,
+      "badge": "",
+      "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?w=300&h=300&fit=crop&auto=format&q=80"
+    },
+    {
+      "id": "battery-cam-pro",
+      "categoryId": "cameras",
+      "title": "Wyze Battery Cam Pro",
+      "description": "Wire-free outdoor security — up to 6 months per charge.",
+      "learnMoreUrl": "#",
+      "price": 89.99,
+      "compareAtPrice": 109.99,
+      "badge": "Save 18%",
+      "variants": [
+        {
+          "id": "white",
+          "name": "White",
+          "colorCode": "#E8E8E8",
+          "imageUrl": "https://images.unsplash.com/photo-1564069114553-7215e1ff1890?w=300&h=300&fit=crop&auto=format&q=80"
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "colorCode": "#1a1a1a",
+          "imageUrl": "https://images.unsplash.com/photo-1580982172477-9373ff9e73b4?w=300&h=300&fit=crop&auto=format&q=80"
+        }
+      ]
+    },
+    {
+      "id": "cam-unlimited",
+      "categoryId": "plan",
+      "title": "Cam Unlimited",
+      "description": "Unlimited cameras on one account for one flat annual price. Includes AI detection.",
+      "learnMoreUrl": "#",
+      "price": 99.00,
+      "compareAtPrice": 0,
+      "badge": "Best Value",
+      "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&h=300&fit=crop&auto=format&q=80",
+      "billingInterval": "year"
+    },
+    {
+      "id": "cam-plus",
+      "categoryId": "plan",
+      "title": "Cam Plus",
+      "description": "AI-powered person, package & vehicle detection with 14-day cloud storage.",
+      "learnMoreUrl": "#",
+      "price": 19.99,
+      "compareAtPrice": 0,
+      "badge": "",
+      "imageUrl": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=300&h=300&fit=crop&auto=format&q=80",
+      "billingInterval": "month"
+    },
+    {
+      "id": "sense-motion",
+      "categoryId": "sensors",
+      "title": "Wyze Sense Motion Sensor",
+      "description": "Detects motion up to 26ft away. Triggers alerts & automations instantly.",
+      "learnMoreUrl": "#",
+      "price": 8.99,
+      "compareAtPrice": 0,
+      "badge": "",
+      "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=300&fit=crop&auto=format&q=80"
+    },
+    {
+      "id": "sense-entry",
+      "categoryId": "sensors",
+      "title": "Wyze Sense Entry Sensor",
+      "description": "Know instantly when doors or windows open. Simple magnetic design.",
+      "learnMoreUrl": "#",
+      "price": 8.99,
+      "compareAtPrice": 0,
+      "badge": "",
+      "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=300&h=300&fit=crop&auto=format&q=80"
+    },
+    {
+      "id": "sense-hub",
+      "categoryId": "sensors",
+      "title": "Wyze Sense Hub",
+      "description": "The central hub — required to use Wyze sensors in your system.",
+      "learnMoreUrl": "#",
+      "price": 29.99,
+      "compareAtPrice": 0,
+      "badge": "Required",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=300&fit=crop&auto=format&q=80"
+    },
+    {
+      "id": "sd-card-32",
+      "categoryId": "protection",
+      "title": "Wyze MicroSD Card 32GB",
+      "description": "Continuous local recording directly on the camera — no subscription needed.",
+      "learnMoreUrl": "#",
+      "price": 9.99,
+      "compareAtPrice": 0,
+      "badge": "",
+      "imageUrl": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=300&h=300&fit=crop&auto=format&q=80"
+    },
+    {
+      "id": "sd-card-256",
+      "categoryId": "protection",
+      "title": "Wyze MicroSD Card 256GB",
+      "description": "Extended local storage for longer continuous recording history.",
+      "learnMoreUrl": "#",
+      "price": 24.99,
+      "compareAtPrice": 0,
+      "badge": "",
+      "imageUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=300&h=300&fit=crop&auto=format&q=80"
+    },
+    {
+      "id": "lamp-socket",
+      "categoryId": "protection",
+      "title": "Wyze Lamp Socket",
+      "description": "Mount your Wyze Cam inside any standard outdoor light socket.",
+      "learnMoreUrl": "#",
+      "price": 14.99,
+      "compareAtPrice": 0,
+      "badge": "",
+      "imageUrl": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=300&h=300&fit=crop&auto=format&q=80"
+    }
+  ],
+  "initialState": [
+    { "productId": "cam-v4", "variantId": "white", "quantity": 1 },
+    { "productId": "cam-pan-v3", "variantId": "black", "quantity": 2 },
+    { "productId": "cam-unlimited", "quantity": 1 },
+    { "productId": "sense-motion", "quantity": 2 },
+    { "productId": "sense-hub", "quantity": 1 },
+    { "productId": "sd-card-256", "quantity": 2 }
+  ]
+}
